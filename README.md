@@ -1,9 +1,9 @@
 ### 👋 About
 
 Semiconductor process engineer by day, agentic-dev builder by night.
-I turn the obscene amount of tabular data Fabs generate into something
-engineers can actually act on — and I'm now teaching LLM agents to build
-those tools for me.
+Currently on the **Samsung Electronics Foundry logic team (PA1)**. I turn the
+obscene amount of tabular data Fabs generate into something engineers can
+actually act on — and I'm now teaching LLM agents to build those tools for me.
 
 ---
 
@@ -11,7 +11,7 @@ those tools for me.
 
 - **Automated ET (parametric) reporting pipeline** — daily digest across lots,
   wafers, and process steps. Engineers stopped pinging me for "can you pull
-  VT for K-xxxx?" because the answer now arrives in their inbox every morning.
+  VT for K-xxxx?" because the answer arrives in their inbox every morning.
 - **Failure-analysis index** — composite score that ranks wafers by
   defect-signature patterns, collapsing triage from hours of pivot-table wrangling
   down to minutes.
@@ -21,7 +21,7 @@ those tools for me.
 
 ---
 
-#### 🤖 Currently building
+#### 🤖 Currently building (off-hours)
 
 - **[OmnisHarness](https://github.com/goood2280/OmnisHarness)** — the meta-framework.
   Drop it into any repo, hand it a backlog, watch 10+ LLM agents design, code, and
@@ -35,7 +35,7 @@ those tools for me.
 #### 🧠 Stack
 
 **Semi-domain**  ET / WAT parametric · INLINE · YLD · Lot × Wafer × Step modeling
-· yield attribution · spec-limit monitoring · failure-signature clustering
+· yield attribution · spec-limit monitoring · failure-signature clustering · logic foundry
 
 **Software**  `Claude` (Opus / Sonnet / Haiku tiered) · `FastAPI` · `React` ·
 `Polars` · `DuckDB` · `Vite` · `uvicorn`
@@ -44,12 +44,16 @@ those tools for me.
 
 #### 💡 Thesis
 
-Semi Fabs run on spreadsheets.  A decent web UI + an LLM in the loop is the
-cheapest force multiplier in the industry.  And if I can teach agents to build
+Semi Fabs run on spreadsheets. A decent web UI + an LLM in the loop is the
+cheapest force multiplier in the industry. And if I can teach agents to build
 those UIs *for* me, I ship faster than any team I've ever been on.
 
 > *"Ship new chips, not spreadsheets. Build at the speed of thought."*
 
 ---
 
-📫  goood2280@gmail.com
+#### 📫 Contact
+
+- Email  · goood2280@gmail.com
+- LinkedIn  · [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)  ← **여기를 본인 URL 로 교체**
+- Projects  · [OmnisHarness](https://github.com/goood2280/OmnisHarness) · [FabCanvas.ai](https://github.com/goood2280/FabCanvas.ai)
