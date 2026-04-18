@@ -23,7 +23,7 @@ actually act on — and I'm now teaching LLM agents to build those tools for me.
 
 #### 🤖 Currently building (off-hours)
 
-- **[OmnisHarness](https://github.com/goood2280/OmnisHarness)** — the meta-framework.
+- **[OmniHarness](https://github.com/goood2280/OmniHarness)** — the meta-framework.
   Drop it into any repo, hand it a backlog, watch 10+ LLM agents design, code, and
   review in parallel. Orchestrator → dev team → eval team, all typed.
 - **[FabCanvas.ai](https://github.com/goood2280/FabCanvas.ai)** — reference product
