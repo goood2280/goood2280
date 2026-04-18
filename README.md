@@ -55,5 +55,5 @@ those UIs *for* me, I ship faster than any team I've ever been on.
 #### 📫 Contact
 
 - Email  · goood2280@gmail.com
-- LinkedIn  · [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)  ← **여기를 본인 URL 로 교체**
-- Projects  · [OmnisHarness](https://github.com/goood2280/OmnisHarness) · [FabCanvas.ai](https://github.com/goood2280/FabCanvas.ai)
+- LinkedIn  · [linkedin.com/in/YOUR-HANDLE]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/%EC%8B%9C%EB%AA%85-%EC%9A%B0-b3783a218/)) 
+- Projects  · [OmniHarness](https://github.com/goood2280/OmniHarness) · [FabCanvas.ai](https://github.com/goood2280/FabCanvas.ai)
