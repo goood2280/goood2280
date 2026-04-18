@@ -37,7 +37,7 @@ actually act on — and I'm now teaching LLM agents to build those tools for me.
 **Semi-domain**  ET / WAT parametric · INLINE · YLD · Lot × Wafer × Step modeling
 · yield attribution · spec-limit monitoring · failure-signature clustering · logic foundry
 
-**Software**  `Claude` (Opus / Sonnet / Haiku tiered) · `FastAPI` · `React` ·
+**Software**  `Claude` (Opus / Sonnet / Haiku tiered) · `Python` · `FastAPI` · `React` ·
 `Polars` · `DuckDB` · `Vite` · `uvicorn`
 
 ---
