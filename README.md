@@ -1,7 +1,7 @@
 ### 👋 About
 
 Semiconductor process engineer by day, agentic-dev builder by night.
-Currently on the **Samsung Electronics Foundry logic team (PA1)**. I turn the
+Currently on the **Samsung Electronics Foundry logic team**. I turn the
 obscene amount of tabular data Fabs generate into something engineers can
 actually act on — and I'm now teaching LLM agents to build those tools for me.
 
